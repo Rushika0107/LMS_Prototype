@@ -23,4 +23,5 @@ It includes user authentication, course listing, and progress tracking features.
 5. Open `frontend/index.html` in a browser for the interface.
 
 ## Screenshots
-Add screenshots of the working prototype here.
+Already added to the screenshots folder
+
