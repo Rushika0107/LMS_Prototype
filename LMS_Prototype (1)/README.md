@@ -16,7 +16,7 @@ It includes user authentication, course listing, and progress tracking features.
 - Database: SQLite
 
 ## Instructions to Run
-1. Clone the repository: `git clone <repo-link>`
+1. Clone the repository: `git clone <https://github.com/Rushika0107/LMS_Prototype>`
 2. Navigate to the backend folder: `cd backend`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run the server: `python manage.py runserver`
